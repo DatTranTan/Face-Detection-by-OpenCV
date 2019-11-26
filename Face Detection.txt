@@ -1,0 +1,5 @@
+Chương trình khi chạy sẽ mở WEBCAM của máy tính.
+Rồi sau đó sẽ nhận diện gương mặt trong Webcam bằng cách khoanh một hình vuông màu xanh.
+
+- Đổi màu viền khoanh: thay đổi các số theo hệ RGB
+	color_green = (0,255,0)
